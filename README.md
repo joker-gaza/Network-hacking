@@ -3,7 +3,7 @@ This is an advanced tool built in Python, developed by Bidaya Company in the Gaz
 <img width="1904" height="1026" alt="image" src="https://github.com/user-attachments/assets/19751e76-0de1-4c2a-a469-f3fe4c16dea7" />
 
 
-# Important note: The tools only work on a network adapter such as Alfa or external devices only.
+# Important note: These tools only work on a network adapter such as Alfa or external devices only.
 
 
 
